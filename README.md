@@ -1,3 +1,3 @@
 # ProfessionalAndroid_muntasirbillah
 
-![](ScreenShots/Camera.png)
+<img src="ScreenShots/Camera.png" width="350" height="120")
