@@ -10,9 +10,10 @@
 #### 5.While making this app MPV and clean architecure is followd.
 
 <img src="ScreenShots/Login_Screen.png" width="237" height="380">
+<img src="ScreenShots/NavDrawer.png" width="237" height="380">
 <img src="ScreenShots/Gallery.png" width="237" height="380">
 <img src="ScreenShots/Search_result.png" width="237" height="380">
-<img src="ScreenShots/NavDrawer.png" width="237" height="380">
+
 
  <span style="color: #FFFF00">Library used:</span>
 1.	Glide
