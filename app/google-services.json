@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "86303830363",
+    "firebase_url": "https://photogallery-32a62.firebaseio.com",
+    "project_id": "photogallery-32a62",
+    "storage_bucket": "photogallery-32a62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86303830363:android:1a454d1f20c9b977",
+        "android_client_info": {
+          "package_name": "edu.galileo.android.myphotogallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86303830363-4n5f6t9evgs1pdkuq3lk4k3208iubfon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsfSjuxh3mTAwG6reLlmkbSnbU8DwvHsg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

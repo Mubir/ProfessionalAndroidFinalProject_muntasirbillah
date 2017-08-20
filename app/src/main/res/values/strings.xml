@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MyPhoto Gallery</string>
+    <string name="login.message.email">Email</string>
+    <string name="login.message.password">Password</string>
+    <string name="login.message.signin">Login</string>
+    <string name="login.message.signup">Register</string>
+    <string name="login.error.message.signin">Unable to login</string>
+    <string name="login.notice.message.signup">Registered user successfully</string>
+    <string name="login.error.message.signup">Error registering user</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">About</string>
+    <string name="menu.title.home">Home</string>
+    <string name="menu.title.camera">Camera</string>
+    <string name="menu.title.gallery">Gallery</string>
+    <string name="menu.title.share">Share</string>
+    <string name="menu.title.inspect.photo">Inspect Photos</string>
+    <string name="menu.title.logout">Sign off</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_error_dispatch_camera">Error creating file</string>
+    <string name="main.title.message.camera">Do u Agree</string>
+    <string name="main.body.message.camera"> permission to save your photos</string>
+    <string name="main.result.message.camera">You have refused permission</string>
+    <string name="main.camera.success">Photo saved successfully</string>
+    <string name="main.message.post.camera">Saving your image</string>
+    <string name="search.message.hint">Enter a search criterion</string>
+    <string name="search.message.search">Search</string>
+    <string name="search.message.title">Search Image</string>
+    <string name="search_message_button">Search</string>
+    <string name="search.message.cancel">Cancel</string>
+    <string name="image.message.save">Save</string>
+    <string name="image.message.next">Following</string>
+    <string name="image.message.title">Images found</string>
+    <string name="gallery.delete.image">Delete Image </string>
+    <string name="main.message.photo.empty">There is no picture to show</string>
+    <string name="main.message.gallery.empty">No photos saved</string>
+    <string name="main.message.uri.empty">An error occurred try again</string>
+    <string name="main_message_picture_source">Image found</string>
+    <string name="title_activity_main_screen_fragmnet">MainScreenFragmnet</string>
+</resources>
