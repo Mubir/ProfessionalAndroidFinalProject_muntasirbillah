@@ -11,7 +11,7 @@
 
 <img src="ScreenShots/Camera.png" width="320" height="480">
 
- Library used:
+ <span style="color: #FFFF00">Library used:</span>
 1.	Glide
 2.	Butterknife
 3.	Dagger2
