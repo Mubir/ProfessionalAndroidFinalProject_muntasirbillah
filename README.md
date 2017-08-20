@@ -9,7 +9,7 @@
 #### 4.User can store image url in firebase and load using that url.
 #### 5.While making this app MPV and clean architecure is followd.
 
-<img src="ScreenShots/Camera.png" width="320" height="480">
+<img src="ScreenShots/Login_Screen.png" width="250" height="400">
 
  <span style="color: #FFFF00">Library used:</span>
 1.	Glide
